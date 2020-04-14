@@ -1,0 +1,22 @@
+{
+  "name": "passportjs-app",
+  "version": "1.0.0",
+  "description": "Passport JS Basic Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hameth/PassportJS-App.git"
+  },
+  "author": "Hameth Assaf, Ana Hernandez, Kevin Picon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hameth/PassportJS-App/issues"
+  },
+  "homepage": "https://github.com/Hameth/PassportJS-App#readme",
+  "dependencies": {
+    "passport-http-bearer": "^1.0.1"
+  }
+}
